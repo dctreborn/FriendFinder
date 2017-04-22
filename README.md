@@ -2,7 +2,11 @@
 
 Friend Finder is a dating app simulator that asks the user for a name, photo, and answers to a series of questions to provide a match.
 
-# Instructions
+# Website
+
+https://obscure-beach-92693.herokuapp.com/
+
+# Command Line Instructions (if not using website)
 
 Run "npm install" in Node.js to install all dependencies.
 
