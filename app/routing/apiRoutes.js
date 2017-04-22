@@ -8,6 +8,8 @@ module.exports = function(app) {
 
     //add to friends array
     app.post("/api/friends", function(req, res) {
+    	//calc difference between req.body.scores vs friendsArray[i].scores and return res.json(match)
+
     	friendsArray.push(req.body);
     });
 }
